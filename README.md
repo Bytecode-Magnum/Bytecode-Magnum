@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Srivastava</h1>
 <h3 align="center">A passionate Data Scientist From India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytecode-magnum" alt="bytecode-magnum" /></a> </p>
+
 
 - 🔭 I’m currently working on [Deep Learning and Computer Vision](https://github.com/Bytecode-Magnum/Realtime-Face-Mask-Detection)
 
