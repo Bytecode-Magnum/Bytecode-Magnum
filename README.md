@@ -1,4 +1,5 @@
-![54b6c068097599 5b50bca476b9b](https://github.com/Bytecode-Magnum/Bytecode-Magnum/assets/99680514/4d911163-615e-49d5-b3b5-3cd2d53e10d9)
+
+![79731568097599 5b50bca477735](https://github.com/Bytecode-Magnum/Bytecode-Magnum/assets/99680514/d147013d-7ba0-4824-a4cb-58bb1025d28c)
 
 <h1 align="center">Hi 👋, I'm Ankit Srivastava</h1>
 <h3 align="center">A passionate Data Scientist From India</h3>
