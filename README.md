@@ -1,4 +1,6 @@
-[!MasterHead](![animated-man-computer-coding-nae6mec378lsg1i3](https://github.com/Bytecode-Magnum/Bytecode-Magnum/assets/99680514/5702f0f1-f470-4b07-8175-a15c3656ce1c)]
+
+![212750147-854a394f-fee9-4080-9770-78a4b7ece53f](https://github.com/Bytecode-Magnum/Bytecode-Magnum/assets/99680514/b635fd91-380c-461f-b7d3-18f2b05a6f26)
+
 
 <h1 align="center">Hi 👋, I'm Ankit Srivastava</h1>
 <h3 align="center">A passionate Data Scientist From India</h3>
