@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bytecode-Magnum](https://github.com/Bytecode-Magnum)
 
-- 💬 Ask me about **Deep Learning, Computer Vision, Yolo, Data Analysis**
+- 💬 Ask me about **Deep Learning, Computer Vision, Machine Learning, Data Mining, Dashboarding, Data Analysis**
 
 - 📫 How to reach me **magnuumx22@gmail.com**
 
