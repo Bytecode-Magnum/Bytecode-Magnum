@@ -17,7 +17,7 @@
 - 📫 How to reach me **magnuumx22@gmail.com**
 
 - ⚡ Fun fact **Nothigns beats the satisfaction of smooth running code**
-- 🫡 Only Rule **First and very rule of programming, if the code works do not touch it**
+- 🫡 Rule ***First and very rule of programming, if the code works do not touch it***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
