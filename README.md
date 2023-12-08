@@ -8,16 +8,16 @@
 
 - 🔭 I’m currently working on [Deep Learning and Computer Vision](https://github.com/Bytecode-Magnum/Realtime-Face-Mask-Detection)
 
-- 🌱 I’m currently learning **Computer Vision, Deep Learning, Deep neural Network, LLMS, Generative AIs, Machine Learning Algos,Data Analysis**
+- 🌱 I’m currently learning **Computer Vision, Deep Learning, Deep neural Network, LLMS, Generative AIs, Machine Learning Algos,Data Analysis.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bytecode-Magnum](https://github.com/Bytecode-Magnum)
 
-- 💬 Ask me about **Deep Learning, Computer Vision, Machine Learning, Data Mining, Dashboarding, Data Analysis**
+- 💬 Ask me about **Deep Learning, Computer Vision, Machine Learning, Data Mining, Dashboarding, Data Analysis.**
 
 - 📫 How to reach me **magnuumx22@gmail.com**
 
-- ⚡ Fun fact **Nothigns beats the satisfaction of smooth running code**
-- 🫡 Rule ***First and very rule of programming, if the code works do not touch it***
+- ⚡ Fun fact **Nothigns beats the satisfaction of smooth running code.**
+- 🫡 Rule ***First and very rule of programming, if the code works do not touch it.***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
